@@ -1,0 +1,8 @@
+.TodoItem {
+  display: flex;
+  margin: 5px 0;
+}
+
+.TodoItem__text {
+  margin: 0 10px;
+}
